@@ -123,7 +123,7 @@ def main():
     parser.add_argument('--cfg_strength', type=float, default=4.5, help='CFG strength')
     parser.add_argument('--num_steps', type=int, default=25, help='Number of diffusion steps')
     parser.add_argument('--seed', type=int, default=42, help='Random seed (-1 for random)')
-    parser.add_argument('--mask_away_clip', action='store_true', help='Disable CLIP visual conditioning')
+    parser.add_argument('--mask_away_clip', action='store_true', help='Disable CLIP visual conditioning (when the video content does not match the reference audio)')
     parser.add_argument('--skip_video_composite', action='store_true', help='Skip saving composited video')
     parser.add_argument('--full_precision', action='store_true', help='Use float32 instead of bfloat16')
     parser.add_argument('--output', type=Path, default='./results', help='Output directory')
