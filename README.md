@@ -22,3 +22,7 @@ bash scripts/download.sh
 ```bash
 bash scripts/demo.sh
 ```
+## Acknowledgement
+We would like to thank the authors of these repos for their contribution.
+- [MMAudio](https://github.com/hkchengrex/MMAudio?tab=readme-ov-file)
+- [Synchformer](https://github.com/v-iashin/Synchformer) 
