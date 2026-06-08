@@ -10,7 +10,8 @@
 
 <p>
   <a href="https://ff2416.github.io/AC-Foley-Page/"><strong>Webpage</strong></a> |
-  <a href="https://arxiv.org/abs/2603.15597v1"><strong>Paper</strong></a>
+  <a href="https://arxiv.org/abs/2603.15597v1"><strong>Paper</strong></a> |
+  <a href="https://huggingface.co/FF2416/AC-Foley"><strong>Hugging Face</strong></a>
 </p>
 
 </div>
